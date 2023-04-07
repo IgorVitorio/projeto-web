@@ -1,0 +1,178 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#cb { 
+   background-color:#023163;
+   margin: 0px; 
+   color: white;
+}
+
+#itens{
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+#itens svg{
+ margin-left:70px;
+ margin-right:0px;
+}
+
+
+#logo-pw{ 
+    margin: 0;
+    width: 300px;
+    vertical-align: top;
+}
+
+#menu-2{
+    margin-top: 0;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+#nav-itens #logo-pw{
+    margin-left: 100px;
+}
+
+#nav-itens a{
+    margin-left: 80px;
+    margin-top: 0px;
+    vertical-align: top;
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#nav-itens a:hover{
+   color: black;
+}
+
+#imagem{
+    width: 100%;
+}
+#c1 { 
+    margin: 50px;
+}
+
+.conteudo {
+    width: 35%;
+    float: left;
+    margin-left: 200px;
+    margin-right: 50px;
+}
+
+#h1-1{
+    color: #53646A;
+}
+
+#h1-2{
+    color: #77110E;
+}
+
+hr{
+   margin-right: 460px;
+   border: none;
+   border-top: 2px solid #731409;
+}
+
+button{
+    background-color: #731409;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    border-style: none;
+}
+
+.imagem-note{
+    width: 80%;
+    float: right;
+  }
+
+.colunas{
+   background-color: #003464;
+}
+.coluna {
+    display: inline-block;
+    width: 30%;
+    vertical-align: center;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.coluna p{
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 40px;
+}
+
+#button-2{
+    background-color: rgba(255, 255, 255, 0.293);
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+#button-2:hover{
+    background-color:rgba(255, 255, 255, 0.427);
+}
+
+.separador{
+    width: 100%;
+    height: 6px;
+    background-color: rgba(255, 255, 255, 0.315);
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color:#003464;
+}
+
+#logo-rodape{
+    width: 200px;
+    margin-bottom: 30px;
+}
+
+.coluna #contatos{
+    float: left;
+    border-right: 2px solid #ffffff;
+    padding: 20px;
+}
+
+.coluna svg{
+    margin-top: 10px;
+}
+
+#btn-contato-1{
+    background-color: #29A52E;
+    border-radius: 20px;
+    border-style: none;
+    margin: 10px;
+}
+
+#btn-contato-1:hover{
+background-color: #33d338;
+}
+
+#btn-contato-2{
+    background-color: #02B09B;
+    border-radius: 20px;
+    border-style: none;
+}
+
+#btn-contato-2:hover{
+    background-color: #1bddc6;
+}
